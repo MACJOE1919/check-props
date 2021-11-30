@@ -1,0 +1,4 @@
+*:not(Button, h2, img, div) {
+  background-image: url(https://images5.alphacoders.com/976/976419.jpg);
+  background-size: cover;
+}
